@@ -19,7 +19,7 @@ This is a folder that contains the files for Sentiment Classification using a si
    #### - Report.pdf - contains the report for the project explaining methodology 
    #### - sample_trained_model.pickle - the model that is fit and can be run in cw1-test
 
-## CW1:
+## Project 1920:
 This is a folder contains code for a project involving usage of PySpark.
    #### - project.py: project code 
    #### - test-driver.py: test input

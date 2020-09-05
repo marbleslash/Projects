@@ -1,5 +1,6 @@
-# nlp_neural_nets
-Contains code for Natural Language Processing Coursework
+# Project
+Contains code, pdf files, and data for a few projects, mainly to do with Natural Language Processing.
+These projects feature usage of logistic regression, convolutional neural networks, reccurrent neural networks, etc.
 
 ## For CW2, contains:
    #### pickle file of final convolutional neural network file 

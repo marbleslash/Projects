@@ -11,7 +11,7 @@ This is a folder that contains the files for Propaganda Classification using con
    #### - Keep in mind that if you do not have a GPU, use Google Collab to run the code
    
 
-##CW1:
+## CW1:
 This is a folder that contains the files for Sentiment Classification using a simpler ML algorithm.
    #### - pickle file of final convolutional neural network file 
    #### - cwq-train-official.ipynb - contains the main code for training
@@ -19,7 +19,7 @@ This is a folder that contains the files for Sentiment Classification using a si
    #### - Report.pdf - contains the report for the project explaining methodology 
    #### - sample_trained_model.pickle - the model that is fit and can be run in cw1-test
 
-##CW1:
+## CW1:
 This is a folder contains code for a project involving usage of PySpark.
    #### - project.py: project code 
    #### - test-driver.py: test input

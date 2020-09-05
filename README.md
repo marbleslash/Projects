@@ -1,4 +1,4 @@
-# Project
+# Projects
 Contains code, pdf files, and data for a few projects, mainly to do with Natural Language Processing.
 These projects feature usage of logistic regression, convolutional neural networks, reccurrent neural networks, etc.
 
